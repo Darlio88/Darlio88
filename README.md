@@ -14,4 +14,4 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 
 
 #### Technologies
-* ![react](./assets/react.png)![react](https://img.shields.io/static/v1?label=&message=react&color=blue)
+![react](https://img.shields.io/static/v1?label=&message=REACT&color=blue) ![react](https://img.shields.io/static/v1?label=&message=REACT-NATIVE&color=blue) ![react](https://img.shields.io/static/v1?label=&message=GRAPHQL&color=red) ![react](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=yellow) ![react](https://img.shields.io/static/v1?label=&message=NODEJS&color=green) ![react](https://img.shields.io/static/v1?label=&message=TYPESCRIPT&color=informational)

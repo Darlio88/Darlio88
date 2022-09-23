@@ -19,3 +19,7 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 ![docker](https://img.shields.io/static/v1?label=&message=DOCKER&color=blue) ![git](https://img.shields.io/static/v1?label=&message=GIT&color=inactive) ![jenkins](https://img.shields.io/static/v1?label=&message=JENKINS&color=blueviolet) ![nginx](https://img.shields.io/static/v1?label=&message=NGINX&color=success)
 
  ![mongodb](https://img.shields.io/static/v1?label=&message=MONGODB&color=brightgreen) ![mysql](https://img.shields.io/static/v1?label=&message=MySQLX&color=orange) ![Postgresql](https://img.shields.io/static/v1?label=&message=POSTGRESQL&color=yellowgreen)
+
+#### Other Technologies
+
+![html](./assets/html.png) ![css3](./assets/css3.png) ![javascript](./assets/javascript.png) ![docker](./assets/docker.png) ![jenkins](./assets/jenkins.png) ![python](./assets/python.png) ![firebase](./assets/firebase.png) ![node-js](./assets/node-js.png) ![react](./assets/react.png) ![mysql](./assets/mysql.png) ![firebase](./assets/firebase.png)

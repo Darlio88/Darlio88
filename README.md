@@ -7,7 +7,7 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
   
   * 🦾 I am currently working as a Freelancer
   * 😊 I am looking out to help with building outstanding projects
-  * 🤝 Reach me out on [danieldarlio01@gmail.com](mailto:danieldarlio01@gmail.com)
+  * 🤝 How to reach me [danieldarlio01@gmail.com](mailto:danieldarlio01@gmail.com)
   * 😄 Pronouns: He/him
   * 🥳 Leisure: I play football⚽ and love chess♟️
 
@@ -23,3 +23,6 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 #### Other Technologies
 
 ![html](./assets/html.png) ![css3](./assets/css3.png) ![javascript](./assets/javascript.png) ![typescript](./assets/typescript.png) ![docker](./assets/docker.png) ![kubernetes](./assets/kubernetes.png) ![jenkins](./assets/jenkins.png) ![git](./assets/git.png) ![nginx](./assets/nginx.png) ![python](./assets/python.png) ![django](./assets/django.png) ![flask](./assets/flask.png) ![firebase](./assets/firebase.png) ![node-js](./assets/node-js.png) ![react](./assets/react.png) ![mysql](./assets/mysql.png) ![firebase](./assets/firebase.png) ![redis](./assets/redis.png) ![postgresql](./assets/postgresql.png) ![mongodb](./assets/mongodb.png) ![aws](./assets/aws.png) ![oracle](./assets/oracle.png) 
+
+#### Tools
+![figma](./assets/figma.png) ![adobe-xd](./assets/adobe-xd.png) ![notion](./assets/notion.png) ![canva](./assets/canva.png)

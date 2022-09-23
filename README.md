@@ -12,4 +12,4 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
   * 🥳 Leisure: I play football⚽ and love chess♟️
 
 #### Technologies
-![react](https://github.com/Darlio88/Darlio88/blob/master/assets/react.png) ![react](https://img.shields.io/static/v1?label=React&message=react&color=blue)
+![react](https://github.com/Darlio88/Darlio88/blob/master/assets/react.png) ![react](https://img.shields.io/static/v1?message=react&color=blue)

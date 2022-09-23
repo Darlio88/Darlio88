@@ -13,3 +13,5 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 
 #### Technologies
 ![react](https://github.com/Darlio88/Darlio88/blob/master/assets/react.png)![react](https://img.shields.io/static/v1?label=&message=react&color=blue)
+
+![react](https://img.shields.io/static/v1?label=![react](https://github.com/Darlio88/Darlio88/blob/master/assets/react.png)&message=react&color=blue)

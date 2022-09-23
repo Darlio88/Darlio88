@@ -22,4 +22,4 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 
 #### Other Technologies
 
-![html](./assets/html.png) ![css3](./assets/css3.png) ![javascript](./assets/javascript.png) ![docker](./assets/docker.png) ![jenkins](./assets/jenkins.png) ![python](./assets/python.png) ![firebase](./assets/firebase.png) ![node-js](./assets/node-js.png) ![react](./assets/react.png) ![mysql](./assets/mysql.png) ![firebase](./assets/firebase.png)
+![html](./assets/html.png) ![css3](./assets/css3.png) ![javascript](./assets/javascript.png) ![typescript](./assets/typescript.png) ![docker](./assets/docker.png) ![kubernetes](./assets/kubernetes.png) ![jenkins](./assets/jenkins.png) ![python](./assets/python.png) ![django](./assets/django.png) ![flask](./assets/flask.png) ![firebase](./assets/firebase.png) ![node-js](./assets/node-js.png) ![react](./assets/react.png) ![mysql](./assets/mysql.png) ![firebase](./assets/firebase.png) ![redis](./assets/redis.png) ![mongodb](./assets/mongodb.png) ![aws](./assets/aws.png) ![oracle](./assets/oracle.png) 

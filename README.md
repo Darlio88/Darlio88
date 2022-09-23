@@ -18,4 +18,4 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 
 ![docker](https://img.shields.io/static/v1?label=&message=DOCKER&color=blue) ![git](https://img.shields.io/static/v1?label=&message=GIT&color=inactive) ![jenkins](https://img.shields.io/static/v1?label=&message=JENKINS&color=blueviolet) ![nginx](https://img.shields.io/static/v1?label=&message=NGINX&color=success)
 
- ![mongodb](https://img.shields.io/static/v1?label=&message=MONGODB&color=success) ![mysql](https://img.shields.io/static/v1?label=&message=MySQLX&color=ff69b4) ![Postgresql](https://img.shields.io/static/v1?label=&message=POSTGRESQL&color=yellowgreen)
+ ![mongodb](https://img.shields.io/static/v1?label=&message=MONGODB&color=brightgreen) ![mysql](https://img.shields.io/static/v1?label=&message=MySQLX&color=orange) ![Postgresql](https://img.shields.io/static/v1?label=&message=POSTGRESQL&color=yellowgreen)

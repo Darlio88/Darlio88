@@ -11,5 +11,7 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
   * 😄 Pronouns: He/him
   * 🥳 Leisure: I play football⚽ and love chess♟️
 
+
+
 #### Technologies
 * ![react](./assets/react.png)![react](https://img.shields.io/static/v1?label=&message=react&color=blue)

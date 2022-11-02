@@ -7,7 +7,7 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
   
   * 🦾 I am currently working as a Freelancer
   * 😊 I am looking out to help with building outstanding projects
-  * 🤝 How to reach me [danieldarlio01@gmail.com](mailto:danieldarlio01@gmail.com)
+  * 🤝 How to reach me [danielomoding173@gmail.com](mailto:danielomoding173@gmail.com)
   * 😄 Pronouns: He/him
   * 🥳 Leisure: I play football⚽ and love chess♟️
 
@@ -30,6 +30,6 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 
 #### Business
 * [📖resume](./assets/resume.pdf)
-* [📧direct contact](mailto:danieldarlio01@gmail.com)
+* [📧direct contact](mailto:danielomoding173@gmail.com)
 * [💼linkedin](https://www.linkedin.com/in/daniel-darlio-a9aba3194/)
 * [🌐Portfolio website](https://darlio88.github.io/portfolio/)

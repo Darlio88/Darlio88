@@ -1,11 +1,11 @@
 ### Hi, I am Daniel 👋
-I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most of time designing and coding  outstanding web and mobile projects.
+I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most of time designing and coding outstanding web and mobile projects.
 
 ##### Reach me out
 [![Twitter Follow](https://img.shields.io/twitter/follow/iam_darlio?label=%40iam_darlio&style=social)](https://twitter.com/intent/follow?screen_name=iam_darlio)
 [![GitHub followers](https://img.shields.io/github/followers/Darlio88?label=darlio&style=social)](https://img.shields.io/github/followers/Darlio88?label=darlio&style=social)
   
-  * 🦾 I am currently working as a Freelancer full-stack software developer at [Turing Talent Inc](https://www.turing.com/)
+  * 🦾 I am currently working as a full-stack software developer
   * 😊 I am looking out to help with building outstanding projects
   * 🤝 How to reach me [danielomoding173@gmail.com](mailto:danielomoding173@gmail.com)
   * 😄 Pronouns: He/him

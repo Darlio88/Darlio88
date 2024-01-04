@@ -32,4 +32,4 @@ I'm Omoding Daniel a Full Stack Software Developer 👨🏼‍💻. I Spend most
 * [📖resume](./assets/resume.pdf)
 * [📧direct contact](mailto:danielomoding173@gmail.com)
 * [💼linkedin](https://www.linkedin.com/in/daniel-darlio-a9aba3194/)
-* [🌐Portfolio website](https://darlio88.github.io/portfolio/)
+* [🌐Portfolio website](https://bento.me/darlio88)
